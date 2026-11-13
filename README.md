@@ -57,7 +57,7 @@ Download the APK from the Releases page (or build it yourself, see below), open 
 Requirements: [Flutter](https://docs.flutter.dev/get-started/install) 3.47 or newer and the Android SDK (platform 36).
 
 ```bash
-git clone <this repo>
+git clone https://github.com/Abu018/pillion.git
 cd pillion
 flutter pub get
 flutter test                       # unit tests
